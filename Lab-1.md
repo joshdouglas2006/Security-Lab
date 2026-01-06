@@ -18,10 +18,11 @@ Capture:
 •	Country - France
 •	Name servers
 ![Name server results](Images/nameserver.png)
+
 •	Registration date (age) –
+ <img width="380" height="143" alt="important dates" src="https://github.com/user-attachments/assets/70b27613-de01-4bfa-b9a6-dabb5eeda972" />
+
  
- 
-Write this down:
 •	Who appears to own it? Invicti Security Limited
 •	Is it cloud-hosted? Yes AWS, and google
 •	Is anything intentionally hidden? Contact information is redacted for privacy.
